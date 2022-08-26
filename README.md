@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created using [npx-create-react-app](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -14,7 +14,7 @@ This application is also hosted using "FIREBASE" and can be accessed using
 the followingg URL ::
 Open ( https://reactjs-68f43.web.app ) to view it in the browser.
 
-/*Note :: This application currently is not mobile Responsive , unwanted distortion can be shown in smaller screens.*/
+**Note :: This application currently is not mobile Responsive , unwanted distortion can be shown in smaller screens.**
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
