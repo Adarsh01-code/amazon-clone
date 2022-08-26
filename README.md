@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 This application is also hosted using FIREBASE and can be accessed using 
 the followingg URL ::
-Open(https://reactjs-68f43.web.app)to view it in the browser.
+Open https://reactjs-68f43.web.app to view it in the browser.
 
 //Note :: This application currently is not mobile Responsive , unwanted distortion can be shown in smaller screens.
 
