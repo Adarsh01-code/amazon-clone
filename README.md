@@ -10,9 +10,9 @@ In the project directory, you can run:
 
 Runs the app in the development mode.
 
-This application is also hosted using "FIREBASE" and can be accessed using 
+This application is also hosted using "Netlify" and can be accessed using 
 the followingg URL ::
-Open ( https://reactjs-68f43.web.app ) to view it in the browser.
+Open ( https://effulgent-fenglisu-133adf.netlify.app ) to view it in the browser.
 
 **Note :: This application currently is not mobile Responsive , unwanted distortion can be shown in smaller screens.**
 
